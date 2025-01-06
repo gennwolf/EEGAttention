@@ -3,7 +3,7 @@
 
 
 ## Reference Citation
-[1] Wang, J.; Kim, S.-K. Novel Machine Learning Based Brain Attention Detection Systems. Information 2025.
+[1] Wang, J.; Kim, S.-K. Novel Machine Learning-Based Brain Attention Detection Systems. Information 2025, 16, 25. https://doi.org/10.3390/info16010025
 
 [2] Aci, C.I.; Kaya, M.; Mishchenko, Y. Distinguishing mental attention states of humans via an EEG-based passive BCI using machine learning methods. Expert Systems with Applications 2019, 134, 153–166.
 
@@ -44,6 +44,7 @@ tensorboard
 ```
 2025.01.04: The paper has been accepted.
 2025.01.04: Upload the EEG-based system code in Github (v.01).
+2025.01.06: Update paper citation.
 ```
 
 #### Code created by *Genn* [v.01 || 2025/01/04]
